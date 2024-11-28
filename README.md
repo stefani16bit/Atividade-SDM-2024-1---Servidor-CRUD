@@ -113,6 +113,6 @@ Agora o servidor deve responder também as seguintes rotas (paths), métodos e p
     }
 ~~~
 
-- Entregar o link do seu github com o projeto alterado pelo classroom: (atividade)[https://classroom.google.com/c/NjY2NDk2MTQyMjQ2/a/NjU2NDczMzAwMzIx/details]
+- Entregar o link do seu github com o projeto alterado pelo classroom.
 
 **`DICA: clone o repositório e faça os testes direto rodando o servidor`**
